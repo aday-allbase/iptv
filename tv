@@ -217,10 +217,6 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/jowo%20channel
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="beritasatu.macan" tvg-logo="https://i.imgur.com/7kmah7J.png" group-title="TV NASIONAL", BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-
 #EXTINF:-1 tvg-id="idtv" tvg-logo="https://i.imgur.com/iBzuSFw.jpeg" group-title="TV NASIONAL", BERITA SATU
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
