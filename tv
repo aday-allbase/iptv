@@ -213,7 +213,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nusantara%20tv
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/jowo%20channel.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wD9ABgN.png" group-title="TV NASIONAL",INSPIRA TV
+#EXTINF:-1 tvg-id="inspiratv" tvg-logo="https://i.imgur.com/wD9ABgN.png" group-title="TV NASIONAL",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 
