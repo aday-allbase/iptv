@@ -107,7 +107,3 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #EXTINF:-1 tvg-id="Vision Prime HD" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="INDONESIA",Vision Prime
 https://dsgtq5sngxkde.cloudfront.net/live/eds/VisionPrime/sa_dash/VisionPrime.mpd
-
-#EXTINF:-1 tvg-id="VTV.id" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true" group-title="INDONESIA",VTV
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=vtv  
