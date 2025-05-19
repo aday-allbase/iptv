@@ -7,13 +7,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="Tv nasional",ANTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/antv.m3u8
-#EXTINF:-1 group-title="Tv nasional",BALITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9hcgkM3.png" group-title="Tv nasional",BALITV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BALI_TV.m3u8
 #EXTINF:-1 group-title="Tv nasional",CITRA DANGDUT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradangdut.m3u8
 #EXTINF:-1 group-title="Tv nasional",CITRA DRAMA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradrama.m3u8
-#EXTINF:-1 group-title="Tv nasional",DAAITV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tRscVq0.png" group-title="Tv nasional",DAAITV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
 #EXTINF:-1 group-title="Tv nasional",DUNIA LAIN
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain.m3u8
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rtv.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 #EXTINF:-1 group-title="Tv nasional",SEA TODAY
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SEA_TODAY.m3u8
-#EXTINF:-1 group-title="Tv nasional",SINDO NEWSTV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObxqqU.jpeg" group-title="Tv nasional",SINDO NEWSTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sindo%20news%20tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wWvZ5in.png" group-title="Tv nasional",TRANS7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRANS_7.m3u8
