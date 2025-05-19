@@ -7,13 +7,13 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my2.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/bein_my3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QWeAZ6j.png" group-title="Tv nasional",ANTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/antv.m3u8
-#EXTINF:-1 group-title="Tv nasional",BALI TV
+#EXTINF:-1 group-title="Tv nasional",BALITV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/BALI_TV.m3u8
 #EXTINF:-1 group-title="Tv nasional",CITRA DANGDUT
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradangdut.m3u8
 #EXTINF:-1 group-title="Tv nasional",CITRA DRAMA
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/citradrama.m3u8
-#EXTINF:-1 group-title="Tv nasional",DAAI TV
+#EXTINF:-1 group-title="Tv nasional",DAAITV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/daai%20tv.m3u8
 #EXTINF:-1 group-title="Tv nasional",DUNIA LAIN
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/dunialain.m3u8
@@ -33,19 +33,19 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/jaktv.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/jowo%20channel.m3u8
 #EXTINF:-1 group-title="Tv nasional",JTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/JTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AXEOm9S.png" group-title="Tv nasional",KOMPAS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AXEOm9S.png" group-title="Tv nasional",KOMPASTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/kompas%20tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/apTPT8k.png" group-title="Tv nasional",MDTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/MDTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EINlcNz.png" group-title="Tv nasional",MENTARI
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mentari.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wqpP41q.png" group-title="Tv nasional",METRO TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wqpP41q.png" group-title="Tv nasional",METROTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/METRO_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FHFe1c2.png" group-title="Tv nasional",MNCTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/mnctv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="Tv nasional",MOJI
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/moji_dens.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qEtOHkD.jpeg" group-title="Tv nasional",NUSANTARA TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEtOHkD.jpeg" group-title="Tv nasional",NUSANTARATV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/nusantara%20tv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pThdSD7.png" group-title="Tv nasional",RCTI
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rcti.m3u8
@@ -55,11 +55,11 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/rtv.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sctv.m3u8
 #EXTINF:-1 group-title="Tv nasional",SEA TODAY
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/SEA_TODAY.m3u8
-#EXTINF:-1 group-title="Tv nasional",SINDO NEWS TV
+#EXTINF:-1 group-title="Tv nasional",SINDO NEWSTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/sindo%20news%20tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wWvZ5in.png" group-title="Tv nasional",TRANS 7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wWvZ5in.png" group-title="Tv nasional",TRANS7
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRANS_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g50Vt1H.png" group-title="Tv nasional",TRANS TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g50Vt1H.png" group-title="Tv nasional",TRANSTV
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/TRANS_TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6PAwag0.png" group-title="Tv nasional",TVONE
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/tvone.m3u8
